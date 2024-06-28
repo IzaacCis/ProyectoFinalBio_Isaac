@@ -24,4 +24,4 @@ El análisis filogenético utiliza datos moleculares, como secuencias de ADN, pa
 ![Ballena Azul](https://github.com/IzaacCis/ProyectoFinalBio_Isaac/blob/main/Fotografias%20y%20archivos%20adicionales/alineado.afa.treefile.jpg)
 
 ## Video de *Balaenoptera musculus*
-[![Video sobre la Ballena Azul](<iframe width="1259" height="708" src="https://www.youtube.com/embed/vkJNtpjgJDg" title="La Ballena Azul | Mini Documental" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)](https://www.youtube.com/watch?v=vkJNtpjgJDg)
+[![Video sobre la Ballena Azul]()](https://www.youtube.com/watch?v=vkJNtpjgJDg)
