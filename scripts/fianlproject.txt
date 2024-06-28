@@ -1,0 +1,139 @@
+    1  cd Desktop/
+    2  cd ProyectoFinalBio_Isaac/
+    3  git status
+    4  cd data/
+    5  git status
+    6  git status
+    7  cd Archivos\ FASTA\ Balaenoptera/
+    8  git status
+    9  LS
+   10  cd ..
+   11  cd ..
+   12  cd ..
+   13  cd ..
+   14  cd Downloads/
+   15  cd iqtree-2.3.4-Windows.zip 
+   16  cd iqtree-2.3.4-Windows/
+   17  cd bin
+   18  ls
+   19  cd iqtree-2.3.4-Windows/
+   20  cd iqtree-2.3.4-Windows/
+   21  ls
+   22  cd bin
+   23  pwdd
+   24  pwd
+   25  export IQTREE=/c/Users/isaac/Downloads/iqtree-2.3.4-Windows/iqtree-2.3.4-Windows/bin
+   26  $IQTREE
+   27  export IQTREE=/c/Users/isaac/Downloads/iqtree-2.3.4-Windows/iqtree-2.3.4-Windows/bin/iqtree2
+   28  $IQTREE
+   29  cd ..
+   30  cd ..
+   31  cd ..
+   32  cd ..
+   33  cd Desktop/
+   34  cd ProyectoFinalBio_Isaac/
+   35  cd data/
+   36  cd Archivos\ FASTA\ Balaenoptera/
+   37  $IQTREE -s alineado.afa -B 1000
+   38  ls
+   39  cd ..
+   40  cd ..
+   41  git status
+   42  git add
+   43  git status
+   44  git add Fotografias\ y\ archivos\ adicionales/ config data/Archivos\ FASTA\ Balaenoptera/ results/alineado.afa.treefile results/alineado.afa.treefile.jpg scripts/resumenporyect.txt scripts/scripts_proyect.txt 
+   45  git status
+   46  git remote add origin git@github.com:IzaacCis/ProyectoFinalBio_Isaac.git
+   47  ssh -T -p 443 git@github.com
+   48  git branch -M main
+   49  git push origin main
+   50  nano ~/.ssh/config
+   51   git remote -v
+   52  git branch -M main
+   53  git push -u origin main
+   54  ssh -T git@github.com
+   55  eval "$(ssh-agent -s)"
+   56  ssh-add ~/Desktop/kayisaacgithub/keygen
+   57  ssh -T git@github.com
+   58  git remote remove origin
+   59  git remote add origin git@github.com:IzaacCis/ProyectoFinalBio_Isaac.git
+   60  git push -u origin main
+   61  git status
+   62  git remote -v
+   63  git branch -M main
+   64  git push -u origin main
+   65  git pull origin main
+   66  git commit -m "Resolver conflictos de fusión"
+   67  git push -u origin main
+   68  nano README.md 
+   69  git commit -m "Reade v1"
+   70  git add README.md 
+   71  git push -u origin main
+   72  git status
+   73  nano README.md 
+   74  git pull origin main
+   75  git push -u origin main
+   76  git push -u origin main
+   77  git add README.md 
+   78  git commit -m "Reade v1"
+   79  git pull origin main
+   80  nano README.md 
+   81  git status
+   82  git add README.md 
+   83  git commit -m "Reade v2"
+   84  git pull origin main
+   85  cat README.md 
+   86  git remote -v
+   87  git push -u origin main
+   88  nano README.md 
+   89  git add README.md 
+   90  git remote -v
+   91  git commit -m "Reade v3"
+   92  git push -u origin main
+   93  nano README.md 
+   94  git add README.md 
+   95  git commit -m "Reade v4"
+   96  git push -u origin main
+   97  nano README.md 
+   98  git add README.md 
+   99  git commit -m "Reade v5"
+  100  git push -u origin main
+  101  nano README.md 
+  102  git add README.md 
+  103  git commit -m "Reade v6"
+  104  git push -u origin main
+  105  nano README.md 
+  106  git add README.md 
+  107  git commit -m "Reade v7"
+  108  git push -u origin main
+  109  nano README.md 
+  110  git add README.md 
+  111  git commit -m "Reade v8"
+  112  git push -u origin main
+  113  nano README.md 
+  114  git add README.md 
+  115  git commit -m "Reade v9"
+  116  git push -u origin main
+  117  nano README.md 
+  118  git add README.md 
+  119* git commit -m "Reade v11"
+  120  git push -u origin main
+  121  nano README.md 
+  122  git status
+  123  git add README.md Fotografias\ y\ archivos\ adicionales/Video\ la\ ballena\ azul.jpg 
+  124  git commit -m "Reade v10"
+  125  git push -u origin main
+  126  nano README.md 
+  127  git add README.md 
+  128  git commit -m "Reade v11"
+  129  git push -u origin main
+  130  mkdir README.html
+  131  lss
+  132  ls
+  133  ls
+  134  nano README.html
+  135  git add README.html 
+  136  git commit -m "Reade v12"
+  137  git push -u origin main
+  138  history > fianlproject
+  139  history > fianlproject.txt
