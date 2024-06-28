@@ -1,0 +1,105 @@
+    1  ls
+    2  cd Desktop/
+    3  git clone git@github.com:ErickTroncoso/planets-.git ./ErickTroncoso-planets
+    4  mkdir PoyectoFinalBio_Isaac
+    5  ls
+    6  ls
+    7  cd ProyectoFinalBio_Isaac/
+    8  git init .
+    9  nano README.md
+   10  git status
+   11  git add README.md 
+   12  git status
+   13  git commit -m "iniciando preguntas del proyecto"
+   14  ls
+   15  mkdir data results scripts
+   16  git config --global user.email idcisnero@puce.edu.ec
+   17  git config --global user.email "idcisnero@puce.edu.ec"
+   18  git config --global user.name "IzzacCis"
+   19  git commit -m "iniciando preguntas del proyecto"
+   20  git status
+   21  ls
+   22  git status
+   23  cd results/
+   24  mkdir results_readme.txt
+   25  ls
+   26  cd ..
+   27  mkdir -p results/results_readme.txt scripts/scripst_readme.txt data/data:readme.txt
+   28  ls
+   29  cd data/
+   30  ls
+   31  cd ..
+   32  cd results/
+   33  ls
+   34  cd ..
+   35  cd data/
+   36  ls
+   37  rm -rf data\:readme.txt/
+   38  touch data_readme.txt
+   39  ls
+   40  cd ..
+   41  cd results/
+   42  rm -rf results_readme.txt
+   43  ls
+   44  touch results_readme.txt
+   45  cd ..
+   46  ls
+   47  cd scripts/
+   48  touch scripts_readme.txt
+   49  cd ..
+   50  echo "hola mundo" data/data_readme.txt 
+   51  cd ..
+   52  cd ProyectoFinalBio_Isaac/
+   53  echo "hola mundo" results/results_readme.txt 
+   54  echo "hola mundo" scripts/scripts_readme.txt 
+   55  echo "Iniciando Proyecto" >> data/data_readme.txt 
+   56  cat data/data_readme.txt 
+   57  echo "Iniciando Proyecto" >> results/results_readme.txt
+   58  cat results/results_readme.txt 
+   59  echo "Iniciando Proyecto" >>results/results_readme.txt
+   60  cat results/results_readme.txt 
+   61  git satatus
+   62  git status
+   63  git add data/ results/ scripts/
+   64  git status
+   65  git commit -m "carpeta para el proyecto"
+   66  git status
+   67  git remote add origin git@github.com:IzaacCis/ProyectoFinalBio_Isaac.git
+   68  git remote -v
+   69  git push -u origin main
+   70  ls
+   71  git push -u origin main
+   72  ssh-keygen -t  ed25519 -C "idcisneros@puce.edu.ec
+   73  ssh-keygen -t  ed25519 -C "idcisneros@puce.edu.ec"
+   74  git push -u origin main
+   75  git status
+   76  git status
+   77  git remote add origin git@github.com:IzaacCis/ProyectoFinalBio_Isaac.git
+   78  git remote -v
+   79  git push -u origin main
+   80  git commit -m "carpeta para el proyecto"
+   81  git remote add origin git@github.com:IzaacCis/ProyectoFinalBio_Isaac.git
+   82  git add data/ results/ scripts/
+   83  git commit -m "carpeta para el proyecto"
+   84  git remote add origin git@github.com:IzaacCis/ProyectoFinalBio_Isaac.git
+   85  git status
+   86  git remote add origin git@github.com:IzaacCis/ProyectoFinalBio_Isaac.git
+   87  git push -u origin main
+   88  git remote -v
+   89  git push -u origin main
+   90  git branch -M main~
+   91  git branch -M main
+   92  git push -u origin main
+   93  ssh - T -p 443 git@github.com
+   94  ssh -T -p 443 git@github.com
+   95  git branch -M main
+   96  git push -u origin main
+   97  git push origin main
+   98  ssh -T -p 443 git@github.com
+   99  nano ~/.ssh/config
+  100  ssh -T -p 443 git@github.com
+  101  git push origin main
+  102  git branch -M main
+  103  git push -u origin main
+  104  history resumen
+  105  history > resumen.txt

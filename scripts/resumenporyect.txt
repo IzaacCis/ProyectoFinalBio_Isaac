@@ -1,0 +1,66 @@
+    1  ls
+    2  cd Desktop/
+    3  cd Desktop/
+    4  wsl --install
+    5  cd Desktop/
+    6  cd ..
+    7  ls
+    8  cd Downloads/
+    9  ls
+   10  cd muscle5.1.win64.exe 
+   11  /path/to/executable/muscle5.1.win64.exe
+   12  install muscle5.1.win64.exe 
+   13  weno --install muscle5.1.win64.exe 
+   14  install --help
+   15  install -t muscle5.1.win64.exe 
+   16  ./muscle5.1.win64.exe 
+   17  ./muscle5.1.win64.exe 
+   18  muscle -align input.fa -output alineado.afa
+   19  -align input.fa -output alineado.afa
+   20  muscle -align P2RX4_refseq_transcript_edit.fasta -output alineado.afa
+   21  muscle -align P2RX4_refseq_transcript_edit.fasta -output alineado.afa
+   22  muscle -align P2RX4_refseq_transcript_edit.fasta -output alineado.afa
+   23  ./muscle5.1.win64.exe -align P2RX4_refseq_transcript_edit.fasta -output alineado.afa
+   24  wget https://github.com/iqtree/iqtree2/releases/download/v2.2.0/iqtree-2.2.0-Linux.tar.gz
+   25  tar -xzvf iqtree-2.2.0-Linux.tar.gz && rm iqtree-2.2.0-Linux.tar.gz
+   26  iqtree2 -s <Tu.alineaminto> -B 100
+   27  iqtree2 -s <alineado.afa> -B 100
+   28  wget https://github.com/iqtree/iqtree2/releases/download/v2.2.0/iqtree-2.2.0-Linux.tar.gz
+   29  tar -xzvf iqtree-2.2.0-Linux.tar.gz && rm iqtree-2.2.0-Linux.tar.gz
+   30  tar -xzvf iqtree-2.2.0-Linux.tar.gz && rm iqtree-2.2.0-Linux.tar.gz
+   31  iqtree2 -s <alineado.afa> -B 100
+   32  wget https://github.com/iqtree/iqtree2/releases/download/v2.2.0/iqtree-2.2.0-Linux.tar.gz
+   33  https://github.com/iqtree/iqtree2/releases/download/v2.2.0/iqtree-2.2.0-Linux.tar.gz
+   34  tar -xzvf iqtree-2.2.0-Linux.tar.gz && rm iqtree-2.2.0-Linux.tar.gz
+   35  iqtree2 -s <alineado.afa> -B 100
+   36  ./iqtree-2.2.0-Linux/
+   37  ./iqtree-2.2.0-Linux
+   38  ./iqtree2
+   39  iqtree2
+   40  ls
+   41  cd iqtree-2.2.0-Linux/
+   42  cd bin/
+   43  ls
+   44  export IQTREE
+   45  pwd
+   46  export IQTREE=/c/Users/estudiante/Downloads/iqtree-2.2.0-Linux/bin/iqtree2
+   47  $IQTREE
+   48  cd ..
+   49  cd ..
+   50  ls
+   51  cd iqtree-2.3.4-Windows
+   52  cd bin/
+   53  pwd
+   54  export IQTREE=/c/Users/estudiante/Downloads/iqtree-2.3.4-Windows/bin/iqtree2
+   55  $IQTREE
+   56  cd ..
+   57  cd ..
+   58  iqtree2 -s <alineado.afa> -B 100
+   59  iqtree2 -s <alineado.afa> -B 100
+   60  $IQTREE iqtree2 -s <alineado.afa> -B 100
+   61  $IQTREE -s <alineado.afa> -B 100
+   62  $IQTREE -s <alineado.afa> -B 1000
+   63  $IQTREE -s alineado.afa -B 1000
+   64  ls
+   65  $IQTREE -s alineado.afa -B 1000
+   66  history > resumenporyect.txt

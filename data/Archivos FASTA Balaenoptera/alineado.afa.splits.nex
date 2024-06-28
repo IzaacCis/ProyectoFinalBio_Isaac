@@ -1,0 +1,118 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=18;
+TAXLABELS
+[1] 'Physeter_catodon'
+[2] 'Eubalaena_glacialis'
+[3] 'Lagenorhynchus_albirostris'
+[4] 'Delphinus_delphis'
+[5] 'Delphinapterus_leucas'
+[6] 'Kogia_breviceps'
+[7] 'Tursiops_truncatus'
+[8] 'Neophocaena_asiaeorientalis'
+[9] 'Balaenoptera_ricei'
+[10] 'Orcinus_orca'
+[11] 'Lagenorhynchus_obliquidens'
+[12] 'Lipotes_vexillifer'
+[13] 'Mesoplodon_densirostris'
+[14] 'Globicephala_melas'
+[15] 'Balaenoptera_musculus'
+[16] 'Monodon_monoceros'
+[17] 'Balaenoptera_acutorostrata'
+[18] 'Phocoena_sinus'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=18 nsplits=85;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 2,
+	100	 9,
+	100	 17,
+	44	 9 17,
+	100	 15,
+	97	 9 15 17,
+	99	 2 9 15 17,
+	100	 3,
+	100	 4,
+	100	 7,
+	80	 4 7,
+	100	 14,
+	58	 4 7 14,
+	100	 10,
+	100	 11,
+	14	 10 11,
+	93	 4 7 10 11 14,
+	99	 3 4 7 10 11 14,
+	100	 5,
+	100	 16,
+	100	 5 16,
+	37	 3 4 5 7 10 11 14 16,
+	100	 8,
+	100	 18,
+	100	 8 18,
+	99	 1 2 6 9 12 13 15 17,
+	100	 12,
+	95	 1 2 6 9 13 15 17,
+	100	 13,
+	72	 1 2 6 9 15 17,
+	99	 1 6,
+	100	 6,
+	100	 1,
+	55	 9 15,
+	56	 5 8 16 18,
+	2	 4 7 10 11,
+	76	 4 7 11 14,
+	19	 1 6 13,
+	18	 11 14,
+	9	 2 9 13 15 17,
+	2	 2 9 17,
+	9	 4 7 11,
+	6	 3 4 7 8 10 11 14 18,
+	0	 2 6 9 15 17,
+	0	 2 6 9 13 15 17,
+	1	 15 17,
+	3	 4 7 10 14,
+	3	 1 2 6 9 12 15 17,
+	7	 3 4 7 11 14,
+	3	 7 14,
+	2	 4 11,
+	3	 10 11 14,
+	1	 4 5 7 10 11 14 16,
+	4	 7 11 14,
+	9	 4 14,
+	2	 4 11 14,
+	10	 7 11,
+	2	 7 10 11,
+	1	 12 13,
+	0	 1 2 3 6 9 12 13 15 17,
+	2	 4 10 14,
+	1	 10 14,
+	1	 2 17,
+	1	 2 9 12 15 17,
+	0	 1 2 6,
+	1	 4 7 10,
+	0	 2 15,
+	0	 3 10,
+	1	 2 9 15,
+	0	 1 2 9 15 17,
+	0	 3 11,
+	1	 1 6 9 15 17,
+	0	 8 12 18,
+	0	 1 6 12 13,
+	0	 2 9 12 13 15 17,
+	0	 3 5 8 16 18,
+	0	 5 8 12 16 18,
+	0	 1 2 6 8 9 13 15 17 18,
+	1	 4 10,
+	0	 3 4 7 10 11 12 14,
+	0	 3 4 7 14,
+	0	 4 10 11 14,
+	0	 3 11 14,
+	0	 7 10 11 14,
+	0	 1 6 12,
+;
+END; [Splits]
+
