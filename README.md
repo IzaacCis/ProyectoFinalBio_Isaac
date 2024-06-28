@@ -15,13 +15,13 @@ El análisis filogenético utiliza datos moleculares, como secuencias de ADN, pa
 
 ## Pasos llevados a cabo
 
-	1. Obtención de secuencias genéticas en GenBank y números de acceso provistos por la investigación.
-	2. Uso de muscle para alinear las secuencias.
-	3. Uso de IQtree para elaboración de los árboles filogenéticos.
-	4. Uso de FigTree para interpretación del árbol filogenético e ilustración.
+1. Obtención de secuencias genéticas en GenBank y números de acceso provistos por la investigación.
+2. Uso de muscle para alinear las secuencias.
+3. Uso de IQtree para elaboración de los árboles filogenéticos.
+4. Uso de FigTree para interpretación del árbol filogenético e ilustración.
 
 ## Filogenia por Figtree
-![Ballena Azul] (https://github.com/IzaacCis/ProyectoFinalBio_Isaac/blob/main/Fotografias%20y%20archivos%20adicionales/alineado.afa.treefile.jpg)
+[!Ballena Azul] (https://github.com/IzaacCis/ProyectoFinalBio_Isaac/blob/main/Fotografias%20y%20archivos%20adicionales/alineado.afa.treefile.jpg)
 
 ## Video de *Balaenoptera musculus*
 [![Video sobre la Ballena Azul](http://img.youtube.com/watch?v=vkJNtpjgJD)](https://www.youtube.com/watch?v=vkJNtpjgJDg)
